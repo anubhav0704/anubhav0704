@@ -202,7 +202,7 @@ An NLP-powered bot that detects and blocks harmful content as it's posted.
 ## 🎓 Education
 
 **Lovely Professional University** — Phagwara, Punjab
-Bachelor of Technology, Computer Science & Engineering · CGPA: 7.50 · Since Aug '23
+Bachelor of Technology, Computer Science & Engineering · CGPA: 7.53 · Since Aug '23
 
 **Sanskriti Public School** — Areraj, Bihar
 Intermediate · 71% · Mar '21 – Mar '23
