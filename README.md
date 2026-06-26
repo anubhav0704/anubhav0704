@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%F0%9F%9A%80;Machine+Learning+%7C+DSA+%7C+Full-Stack;220%2B+problems+solved+%26+counting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Shipping+AI+products%2C+not+just+ideas+%F0%9F%9A%80;ML+Engineer-in-training+%7C+Full-Stack+Dev;220%2B+DSA+problems+solved+%26+climbing" alt="Typing SVG" />
 
 <br/>
 
@@ -17,9 +17,25 @@
 <img src="https://komarev.com/ghpvc/?username=anubhav0704&label=Profile%20Views&color=00C6FF&style=flat-square" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/anubhav0704?label=Followers&style=flat-square&color=00C6FF" alt="followers"/>
 
+<br/><br/>
+
+### 💡 I build things that solve real problems — a hiring platform that's live in production, ML models that hit 85%+ accuracy, and 220+ algorithms solved one rep at a time.
+
 </div>
 
 <br/>
+
+<div align="center">
+
+<a href="https://earlyedge.netlify.app"><img src="https://img.shields.io/badge/Live_Product-EarlyEdge-00C6FF?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/DSA-220%2B_Solved-00C6FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hackathon-3rd_Place-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML_Model-85%25_R2_Score-00C6FF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trailhead-48K%2B_pts-00C6FF?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00C6FF&height=2&section=header"/>
 
 ## 🧭 About Me
 
@@ -30,15 +46,17 @@
 ```python
 class Anubhav:
     def __init__(self):
-        self.role      = "B.Tech CSE Student @ LPU '27"
-        self.cgpa      = 7.53
-        self.focus     = ["Machine Learning",
-                           "Full-Stack Dev",
-                           "Artificial Intelligence"],
-                           "Leadership"]
-        self.building  = "EarlyEdge — AI-driven,
-                           merit-first job portal"
-        self.fun_fact  = "220+ DSA problems solved"
+        self.role     = "B.Tech CSE @ LPU, Batch of '27"
+        self.cgpa     = 7.50
+        self.focus    = ["Machine Learning",
+                          "Full-Stack Dev",
+                          "AI", "Leadership"]
+        self.building = "EarlyEdge — AI-driven,
+                          merit-first hiring platform"
+        self.fun_fact = "220+ DSA problems solved,
+                          and counting"
+        self.open_to  = "Internships in ML /
+                          Full-Stack Engineering"
 
     def say_hi(self):
         print("Always learning, always shipping 🚀")
@@ -47,12 +65,79 @@ class Anubhav:
 </td>
 <td width="45%" valign="top">
 
-- 🎓 Pursuing **B.Tech in CSE** at Lovely Professional University
-- 🔭 Building **EarlyEdge** — replacing resume floods with verified, merit-based hiring
-- 🌱 Deepening skills in **ML**, **NLP**, **Architecture** and **Core CS Concepts**
-- 🏆 50 Badges & 48K+ points on **Trailhead**
+- 🎓 **B.Tech in CSE** at Lovely Professional University
+- 🔭 Building **EarlyEdge** — a hiring platform that replaces resume floods with verified, merit-based access
+- 🌱 Going deep on **ML**, **NLP**, system architecture, and core CS fundamentals
+- 🏆 **50 badges, 48K+ points** on Salesforce Trailhead
 - ⚡ Leading a **Tech Initiative** at my university since Mar '25
-- 📫 **anubhavkr0407@gmail.com**
+- 📫 Reach me at **anubhavkr0407@gmail.com**
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00C6FF&height=2&section=header"/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [EarlyEdge](https://earlyedge.netlify.app) — *Live in Production*
+**Nov '25 – Present**
+
+> **Impact:** Real users, real applications — not a class project.
+
+A job portal with **"Time-Locked" access**: verified talent gets priority, which cuts resume noise and rewards merit instead of volume.
+
+- 🎙️ Built an automated technical interviewer with the **Web Speech API** for live, voice-based candidate assessments
+- 👥 Shipped a real-time **"Squads"** feature so candidates can team up and apply together
+- **Stack:** HTML · CSS · JS · Firebase · Quiz API · Gemini API
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Renewable Energy Predictor](https://github.com/anubhav0704/Renewable-Energy-Prediction)
+**Mar '25 – Apr '25**
+
+> **Impact:** 85% R² score forecasting real-world energy output.
+
+A Random Forest model that forecasts solar and wind output directly from weather data.
+
+- Tuned the model with **GridSearchCV** to cut generalization error
+- Shipped it as an interactive **Streamlit dashboard**, not just a notebook
+- **Stack:** Python · scikit-learn · Streamlit
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [CPU Scheduler Simulator](https://github.com/anubhav0704/CPU-Scheduling-Algorithm)
+**Mar '25 – Apr '25**
+
+> **Impact:** 4 scheduling algorithms, simulated and benchmarked side by side.
+
+A simulator implementing **FCFS, SJF, Priority,** and **Round Robin** CPU scheduling.
+
+- Modular design that computes waiting time and turnaround time for each algorithm
+- Built as a hands-on tool for learning OS internals by doing
+- **Stack:** Python · Tkinter · Matplotlib · Streamlit
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [AI ChatBot Moderator](https://github.com/anubhav0704/GroupChatModerator)
+**Mar '25**
+
+> **Impact:** Blocks abusive and spam content in live group chats.
+
+An NLP-powered bot that detects and blocks harmful content as it's posted.
+
+- Combined LLM-based filtering with rule-based logic for higher precision
+- Validated moderation accuracy against simulated live group chats
+- **Stack:** Python · NLTK
 
 </td>
 </tr>
@@ -80,68 +165,8 @@ class Anubhav:
 </div>
 
 **Core CS:** Data Structures & Algorithms · Operating Systems · OOP · Computer Networks
-**ML Concepts:** Supervised & Unsupervised Learning · Reinforcement Learning · NLP fundamentals
+**ML Concepts:** Supervised & Unsupervised Learning · Reinforcement Learning · NLP Fundamentals
 **Salesforce:** Apex · SOQL/SOSL
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00C6FF&height=2&section=header"/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 [EarlyEdge](https://earlyedge.netlify.app) — *Live*
-**Nov '25 – Present**
-
-A job portal with **"Time-Locked" access** — verified talent gets priority, cutting resume noise and rewarding merit.
-
-- 🎙️ Built an automated technical interviewer using the **Web Speech API** for live voice-based assessments
-- 👥 Real-time **"Squads"** feature for team-based applications
-- **Stack:** HTML · CSS · JS · Firebase · Quiz API · Gemini API
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [Renewable Energy Predictor](https://github.com/anubhav0704/Renewable-Energy-Prediction)
-**Mar '25 – Apr '25**
-
-A Random Forest model forecasting solar & wind output from weather data.
-
-- Achieved an **R² score of 85%** on energy output predictions
-- Tuned via **GridSearchCV** to cut generalization error
-- Shipped as an interactive **Streamlit dashboard**
-- **Stack:** Python · scikit-learn · Streamlit
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ [CPU Scheduler Simulator](https://github.com/anubhav0704/CPU-Scheduling-Algorithm)
-**Mar '25 – Apr '25**
-
-Simulator implementing **FCFS, SJF, Priority, Round Robin** scheduling.
-
-- Modular design computing waiting & turnaround time
-- Built as a hands-on OS learning tool
-- **Stack:** Python · Tkinter · Matplotlib · Streamlit
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [AI ChatBot Moderator](https://github.com/anubhav0704/GroupChatModerator)
-**Mar '25**
-
-NLP-powered bot that detects and blocks abusive/spam content live.
-
-- Combined LLM-based filtering with rule-based logic
-- Simulated live group chats to validate moderation
-- **Stack:** Python · NLTK
-
-</td>
-</tr>
-</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00C6FF&height=2&section=header"/>
 
@@ -163,8 +188,12 @@ NLP-powered bot that detects and blocks abusive/spam content live.
 
 | 🥉 Hackathon | 💯 Problem Solving | 🎖️ Trailhead | 🧑‍💻 Leadership |
 |:---:|:---:|:---:|:---:|
-| [3rd Position](https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view?usp=sharing) — 24hr Hackathon | [220+ problems](https://codolio.com/profile/anubhav0407) on LeetCode & GFG | [50 Badges, 48K+ pts](https://www.salesforce.com/trailblazer/anubhav0407) | Leading a Tech Initiative @ LPU |
+| [3rd Position](https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view?usp=sharing) — 24hr Hackathon | [220+ problems](https://codolio.com/profile/anubhav0407) on LeetCode & GFG | [50 badges, 48K+ pts](https://www.salesforce.com/trailblazer/anubhav0407) | Leading a Tech Initiative @ LPU |
 | Mar '25 | Since Nov '25 | Present | Mar '25 – Present |
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anubhav0704&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=10" />
 
 </div>
 
@@ -212,7 +241,7 @@ Intermediate · 71% · Mar '21 – Mar '23
 
 <br/><br/>
 
-⭐️ *Open to internships and collaborative projects — let's build something great.*
+⭐ **Open to internships, research collaborations, and freelance builds — let's make something real.**
 
 </div>
 
