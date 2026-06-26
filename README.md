@@ -149,7 +149,7 @@ NLP-powered bot that detects and blocks abusive/spam content live.
 | Certification | Issuer | Date |
 |---|:---:|:---:|
 | [Cloud Infrastructure 2025 Certified AI Foundation Associate](https://drive.google.com/file/d/1jo0yAZR9zWM4VKZcveMbrtMhj5ab0FQn/view?usp=sharing) | Oracle | May 2026 |
-| Oracle Data Platform 2025 Certified Foundation Associate | Oracle | Apr 2026 |
+| [Oracle Data Platform 2025 Certified Foundation Associate](https://drive.google.com/file/d/1c-jChi7V2ugTzbWIeggCw87S_twy_3D7/view?usp=drive_link) | Oracle | Apr 2026 |
 | [Cloud Computing](https://drive.google.com/file/d/1RZ2UJA8R0YYxjEpKlxSTc8L0OhhaQmCc/view?usp=drive_link) | NPTEL | May 2025 |
 | [Python: Basic to Advanced](https://drive.google.com/file/d/1HvgKaebdapEjn1rmNAR0fXnE8k3dngww/view?usp=drive_link) | Udemy | Jan 2024 |
 | [Machine Learning — Summer Training](https://drive.google.com/file/d/1NCRI_E5aSb9BuzgQ-0hiJ1DOqxASRn4m/view) | — | Jun – Jul 2025 |
