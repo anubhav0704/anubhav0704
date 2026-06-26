@@ -1,84 +1,166 @@
-I am Anubhav Kumar, a Btech Cse 2027 graduating student at Lovely Professional University. 
+<div align="center">
 
-Languages: Python, C++, Java, SQL, HTML, Apex, SOQL/SOSL 
-Tools/Platforms: Salesforce, Kaggle, Jupyter Notebook, Google Colab 
- Core CS: Data Structures & Algorithms, Operating Systems, OOPs, Computer Networks 
- ML Concepts: Supervised and Unsupervised Learning, Reinforcement Learning 
- Libraries: Numpy, pandas, matplotlib, scikit-learn, NLTK
+# Hi there, I'm Anubhav Kumar 👋
 
- PROJECTS 
-EarlyEdge | Live (earlyedge.netlify.app)                                                                                                       Nov ‘25 - Present 
-• Creating a job portal using HTML, CSS, JavaScript and Firebase database featuring “Time-Locked” job access 
-for verified talent to reduce resume volume and prioritize merit. 
-• Integrating Web Speech API to create an automated technical interviewer that provides real-time voice-based 
-assessments and performance analytics. 
-• Developing a real-time collaborative feature allowing students to form multidisciplinary “Squads” and apply for 
-roles as a synchronized team. 
-• Tech Stack: HTML, CSS, JavaScript, Firebase Backend, Quiz API, Gemini API, (Integrating Agent). 
+### B.Tech CSE @ Lovely Professional University | Class of 2027
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Machine+Learning+%7C+Data+Structures+%26+Algorithms;Salesforce+Developer+in+progress;Always+shipping+something+new" alt="Typing SVG" />
 
-Renewable Energy Predictor — ML Forecasting Model  |  Python, Random Forest, Scikit-learn, Streamlit  |  Mar 
-2025 – Apr 2025 
-▸  Designed and trained a Random Forest regression model achieving an R² score of 85% to forecast solar and wind 
-energy output from weather parameters (temperature, humidity, wind speed). 
-▸  Applied feature engineering and hyperparameter tuning via GridSearchCV, reducing generalisation error and 
-optimising model performance across diverse seasonal datasets. 
-▸  Deployed an interactive Streamlit dashboard enabling real-time user inputs, live predictions, and data 
-visualisations — translating ML outputs into an accessible decision-support interface. 
-     
-   CPU Scheduler | GitHub (https://github.com/anubhav0704/CPU-Scheduling-Algorithm)                                                                                 Mar ’25 - Apr ‘25 
-• Developed a CPU Scheduling Algorithm Simulator in Python implementing core OS algorithms like FCFS, 
-SJF, Priority, and Round Robin, demonstrating strong understanding of process scheduling concepts. 
-• Designed modular and efficient implementations to compute waiting time, turnaround time, and execution 
-order, improving clarity of algorithm behavior and performance analysis. 
-• Built a practical learning tool for Operating Systems, enabling experimentation with different scheduling 
-strategies and enhancing problem-solving skills in system design. 
-• Tech Stack: Python, Operating Systems (CPU Scheduling Algorithms), Streamlit, Matplotlib, Tkinter, GitHub
+<br/>
 
-   AI ChatBot Moderator | GitHub https://github.com/anubhav0704/GroupChatModerator)                            Mar’ 25 
-• Developed an NLP-powered moderation chatbot using LLM-based text filtering to detect and block offensive, 
-abusive, and spam content in real time. 
-• Implemented rule-based content moderation logic to ensure safe and appropriate conversation flow within 
-group chats. 
-• Simulated group chat interactions in Python to demonstrate real-time moderation effectiveness and system 
-behavior. 
-• Tech Stack: Python, NLTK, Rule-based Filtering (Basic ML Logic), Libraries used (re, nltk, time, collections).
+[![Portfolio](https://img.shields.io/badge/Portfolio-anubhav04.netlify.app-2E9EF7?style=for-the-badge&logo=netlify&logoColor=white)](https://anubhav04.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav04)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavkr0407@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anubhavkr04/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anubhav1j4f)
 
+</div>
 
+---
 
-TRAINING 
-         Machine Learning – Summer Training |  Certificate (https://drive.google.com/file/d/1NCRI_E5aSb9BuzgQ-0hiJ1DOqxASRn4m/view)    Jun ’25 – Jul ‘25 
-•   Simplified even the most complex ML concepts into clear, beginner-friendly lessons using intuitive 
-explanations and step-by-step guidance. 
-•  Emphasized practical, hands-on tasks that help learners build real confidence while developing a strong 
-foundation in machine learning. 
-•   Tech Stack: Supervised Learning, Unsupervised Learning, Reinforcement Learning, and some 
-    concepts  of NLP. 
+## 🧭 About Me
 
-CERTIFICATIONS
- Cloud Infrastructure 2025 Certified AI Foundation Associate — Oracle | May 2026 (https://drive.google.com/file/d/1jo0yAZR9zWM4VKZcveMbrtMhj5ab0FQn/view?usp=sharing)
-▸  Oracle Data Platform 2025 Certified Foundation Associate — Oracle | April 2026 
-▸  Cloud Computing — NPTEL  |  May 2025 (https://drive.google.com/file/d/1RZ2UJA8R0YYxjEpKlxSTc8L0OhhaQmCc/view?usp=drive_link)
-▸  Python: Basic to Advanced — Udemy  |  Jan 2024 (https://drive.google.com/file/d/1HvgKaebdapEjn1rmNAR0fXnE8k3dngww/view?usp=drive_link)
+```python
+class Anubhav:
+    def __init__(self):
+        self.role        = "B.Tech CSE Student @ LPU (2027)"
+        self.cgpa        = 7.50
+        self.focus       = ["Machine Learning", "Full-Stack Dev", "Salesforce"]
+        self.currently   = "Building EarlyEdge — an AI-driven, merit-first job portal"
+        self.fun_fact    = "220+ DSA problems solved and counting"
 
+    def say_hi(self):
+        print("Always learning, always shipping 🚀")
+```
 
- ACHIEVEMENTS 
-• Solved 220+ problems on Leetcode and GFG | Profile (https://codolio.com/profile/anubhav0407)                                            Since Nov ‘25 
-• Secured Third position in 24 hours Hackathon | Certificate (https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view?usp=sharing)                Mar’ 25 
-• Earned 50 Badges and 48K+ Points on Trailhead | Profile (https://www.salesforce.com/trailblazer/anubhav0407)            - Present 
-• Leading a Tech Initiative in University               Mar’25 – Present
+- 🎓 Currently pursuing **B.Tech in Computer Science** at Lovely Professional University, Phagwara
+- 🔭 Building **EarlyEdge**, a job portal that replaces resume floods with verified, merit-based access
+- 🌱 Deepening my skills in **Machine Learning**, **NLP**, and **Salesforce Development**
+- 🏆 50 Badges & 48K+ points on **Trailhead** | 220+ problems on **LeetCode & GFG**
+- ⚡ Leading a **Tech Initiative** at my university since March 2025
+- 📫 Reach me at **anubhavkr0407@gmail.com**
 
-EDUCATION 
-• Lovely Professional University                                                                                                 Phagwara, Punjab 
-Bachelor of Technology in Computer Science and Engineering; CGPA: 7.50                    Since Aug ‘23 
-• Sanskriti Public School                   Areraj, Bihar 
-Intermediate; Percentage: 71                                                                                         Mar ‘21 – Mar ’23
+---
 
+## 🛠️ Tech Stack
 
-Portfolio: https://anubhav04.netlify.app
-LeetCode: https://leetcode.com/u/anubhavkr04/
-Codolio: https://codolio.com/profile/anubhav0407
-GFG: https://www.geeksforgeeks.org/profile/anubhav1j4f
-LinkedIn: https://www.linkedin.com/in/anubhav04
-Gmail: anubhavkr0407@gmail.com
-github: github.com/anubhav0704
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,js" />
+<br/><br/>
+
+**Platforms & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=salesforce,jupyter,vscode,git,github" />
+<br/><br/>
+
+**ML / Data Stack**
+<br/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
+
+**Core CS Foundations:** Data Structures & Algorithms · Operating Systems · OOP · Computer Networks
+**ML Concepts:** Supervised & Unsupervised Learning · Reinforcement Learning · NLP fundamentals
+**Salesforce:** Apex · SOQL/SOSL
+
+---
+
+## 🚀 Featured Projects
+
+### [EarlyEdge](https://earlyedge.netlify.app) — *Live* · Nov '25 – Present
+A job portal redesigning how talent gets discovered, with a **"Time-Locked" access model** that gives verified candidates priority over resume-volume hiring.
+- 🎙️ Built an automated technical interviewer using the **Web Speech API** for real-time, voice-based assessments and performance analytics
+- 👥 Developing a real-time **"Squads"** feature so students can team up and apply for roles together
+- **Stack:** HTML · CSS · JavaScript · Firebase · Quiz API · Gemini API
+
+### Renewable Energy Predictor — ML Forecasting Model · Mar '25 – Apr '25
+A Random Forest regression model forecasting solar & wind energy output from weather data.
+- 📈 Achieved an **R² score of 85%** forecasting energy output from temperature, humidity, and wind speed
+- 🔧 Tuned hyperparameters via **GridSearchCV**, cutting generalization error across seasonal datasets
+- 📊 Shipped as an interactive **Streamlit dashboard** for live predictions and visualizations
+- **Stack:** Python · scikit-learn · Random Forest · Streamlit
+
+### [CPU Scheduler Simulator](https://github.com/anubhav0704/CPU-Scheduling-Algorithm) · Mar '25 – Apr '25
+A simulator implementing core OS scheduling algorithms — **FCFS, SJF, Priority, Round Robin**.
+- 🧩 Modular design computing waiting time, turnaround time, and execution order
+- 🎓 Built as a hands-on learning tool for experimenting with scheduling strategies
+- **Stack:** Python · Tkinter · Matplotlib · Streamlit
+
+### [AI ChatBot Moderator](https://github.com/anubhav0704/GroupChatModerator) · Mar '25
+An NLP-powered moderation bot that detects and blocks offensive, abusive, and spam content in real time.
+- 🛡️ Combined LLM-based text filtering with rule-based logic for safe group chats
+- 🧪 Simulated live group-chat interactions to validate moderation effectiveness
+- **Stack:** Python · NLTK · re · collections
+
+---
+
+## 📜 Certifications & Training
+
+| Certification | Issuer | Date |
+|---|---|---|
+| [Cloud Infrastructure 2025 Certified AI Foundation Associate](https://drive.google.com/file/d/1jo0yAZR9zWM4VKZcveMbrtMhj5ab0FQn/view?usp=sharing) | Oracle | May 2026 |
+| Oracle Data Platform 2025 Certified Foundation Associate | Oracle | Apr 2026 |
+| [Cloud Computing](https://drive.google.com/file/d/1RZ2UJA8R0YYxjEpKlxSTc8L0OhhaQmCc/view?usp=drive_link) | NPTEL | May 2025 |
+| [Python: Basic to Advanced](https://drive.google.com/file/d/1HvgKaebdapEjn1rmNAR0fXnE8k3dngww/view?usp=drive_link) | Udemy | Jan 2024 |
+| [Machine Learning — Summer Training](https://drive.google.com/file/d/1NCRI_E5aSb9BuzgQ-0hiJ1DOqxASRn4m/view) | — | Jun – Jul 2025 |
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **3rd Position** in a 24-hour Hackathon — [Certificate](https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view?usp=sharing) · Mar '25
+- 💯 **220+ problems solved** on LeetCode & GFG — [Codolio Profile](https://codolio.com/profile/anubhav0407) · Since Nov '25
+- 🎖️ **50 Trailhead Badges, 48K+ Points** — [Trailblazer Profile](https://www.salesforce.com/trailblazer/anubhav0407)
+- 🧑‍💻 **Leading a Tech Initiative** at LPU · Mar '25 – Present
+
+---
+
+## 🎓 Education
+
+**Lovely Professional University** — Phagwara, Punjab
+Bachelor of Technology, Computer Science & Engineering · CGPA: 7.50 · Since Aug '23
+
+**Sanskriti Public School** — Areraj, Bihar
+Intermediate · 71% · Mar '21 – Mar '23
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anubhav0704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav0704&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav0704&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-anubhav04.netlify.app-2E9EF7?style=flat-square&logo=netlify&logoColor=white)](https://anubhav04.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anubhav04-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav04)
+[![Gmail](https://img.shields.io/badge/Gmail-anubhavkr0407-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anubhavkr0407@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-anubhav0704-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anubhav0704)
+[![LeetCode](https://img.shields.io/badge/LeetCode-anubhavkr04-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/anubhavkr04/)
+[![GFG](https://img.shields.io/badge/GFG-anubhav1j4f-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anubhav1j4f)
+
+<br/>
+
+⭐️ *Open to internships and collaborative projects — let's build something great.*
+
+</div>
