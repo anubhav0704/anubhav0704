@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=220&section=header&text=Anubhav%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%40%20LPU%20%7C%20Class%20of%202027&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=220&section=header&text=Anubhav%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%40%20LPU%20%7C%20Batch%20of%202027&descAlignY=58&descAlign=50"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%F0%9F%9A%80;Machine+Learning+%7C+DSA+%7C+Full-Stack;Salesforce+Developer+in+progress;220%2B+problems+solved+%26+counting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%F0%9F%9A%80;Machine+Learning+%7C+DSA+%7C+Full-Stack;220%2B+problems+solved+%26+counting" alt="Typing SVG" />
 
 <br/>
 
@@ -31,10 +31,11 @@
 class Anubhav:
     def __init__(self):
         self.role      = "B.Tech CSE Student @ LPU '27"
-        self.cgpa      = 7.50
+        self.cgpa      = 7.53
         self.focus     = ["Machine Learning",
                            "Full-Stack Dev",
-                           "Salesforce"]
+                           "Artificial Intelligence"],
+                           "Leadership"]
         self.building  = "EarlyEdge — AI-driven,
                            merit-first job portal"
         self.fun_fact  = "220+ DSA problems solved"
@@ -48,7 +49,7 @@ class Anubhav:
 
 - 🎓 Pursuing **B.Tech in CSE** at Lovely Professional University
 - 🔭 Building **EarlyEdge** — replacing resume floods with verified, merit-based hiring
-- 🌱 Deepening skills in **ML**, **NLP**, and **Salesforce Development**
+- 🌱 Deepening skills in **ML**, **NLP**, **Architecture** and **Core CS Concepts**
 - 🏆 50 Badges & 48K+ points on **Trailhead**
 - ⚡ Leading a **Tech Initiative** at my university since Mar '25
 - 📫 **anubhavkr0407@gmail.com**
