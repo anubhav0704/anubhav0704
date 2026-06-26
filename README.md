@@ -102,7 +102,7 @@ A job portal with **"Time-Locked" access** — verified talent gets priority, cu
 </td>
 <td width="50%" valign="top">
 
-### 📈 Renewable Energy Predictor
+### 📈 [Renewable Energy Predictor](https://github.com/anubhav0704/Renewable-Energy-Prediction)
 **Mar '25 – Apr '25**
 
 A Random Forest model forecasting solar & wind output from weather data.
