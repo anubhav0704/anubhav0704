@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Shipping+AI+products%2C+not+just+ideas+%F0%9F%9A%80;ML+Engineer-in-training+%7C+Full-Stack+Dev;220%2B+DSA+problems+solved+%26+climbing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Shipping+AI+products%2C+not+just+ideas+%F0%9F%9A%80;ML+Engineer-in-training+%7C+Full-Stack+Dev;260%2B+DSA+problems+solved+%26+climbing" alt="Typing SVG" />
 
 <br/>
 
@@ -28,10 +28,10 @@
 <div align="center">
 
 <a href="https://earlyedge.netlify.app"><img src="https://img.shields.io/badge/Live_Product-EarlyEdge-00C6FF?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/DSA-220%2B_Solved-00C6FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hackathon-3rd_Place-00C6FF?style=for-the-badge"/>
+<a href="https://codolio.com/profile/anubhav0407"><img src="https://img.shields.io/badge/DSA-260%2B_Solved-00C6FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view"><img src="https://img.shields.io/badge/Hackathon-3rd_Place-00C6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ML_Model-85%25_R2_Score-00C6FF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trailhead-48K%2B_pts-00C6FF?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<a href="https://www.salesforce.com/trailblazer/anubhav0407"><img src="https://img.shields.io/badge/Trailhead-48K%2B_pts-00C6FF?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
 </div>
 
@@ -47,13 +47,13 @@
 class Anubhav:
     def __init__(self):
         self.role     = "B.Tech CSE @ LPU, Batch of '27"
-        self.cgpa     = 7.50
+        self.cgpa     = 7.53
         self.focus    = ["Machine Learning",
                           "Full-Stack Dev",
                           "AI", "Leadership"]
         self.building = "EarlyEdge — AI-driven,
                           merit-first hiring platform"
-        self.fun_fact = "220+ DSA problems solved,
+        self.fun_fact = "260+ DSA problems solved,
                           and counting"
         self.open_to  = "Internships in ML /
                           Full-Stack Engineering"
@@ -188,7 +188,7 @@ An NLP-powered bot that detects and blocks harmful content as it's posted.
 
 | 🥉 Hackathon | 💯 Problem Solving | 🎖️ Trailhead | 🧑‍💻 Leadership |
 |:---:|:---:|:---:|:---:|
-| [3rd Position](https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view?usp=sharing) — 24hr Hackathon | [220+ problems](https://codolio.com/profile/anubhav0407) on LeetCode & GFG | [50 badges, 48K+ pts](https://www.salesforce.com/trailblazer/anubhav0407) | Leading a Tech Initiative @ LPU |
+| [3rd Position](https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view?usp=sharing) — 24hr Hackathon | [260+ problems](https://codolio.com/profile/anubhav0407) on LeetCode & GFG | [50 badges, 48K+ pts](https://www.salesforce.com/trailblazer/anubhav0407) | Leading a Tech Initiative @ LPU |
 | Mar '25 | Since Nov '25 | Present | Mar '25 – Present |
 
 <br/>
