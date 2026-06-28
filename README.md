@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Shipping+AI+products%2C+not+just+ideas+%F0%9F%9A%80;ML+Engineer-in-training+%7C+Full-Stack+Dev;260%2B+DSA+problems+solved+%26+climbing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Shipping+AI+products%2C+not+just+ideas+%F0%9F%9A%80;ML+Engineer-in-training+%7C+Full-Stack+Dev;270%2B+DSA+problems+solved+%26+climbing" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-### 💡 I build things that solve real problems — a hiring platform that's live in production, ML models that hit 85%+ accuracy, and 220+ algorithms solved one rep at a time.
+### 💡 I build things that solve real problems — a hiring platform that's live in production, ML models that hit 85%+ accuracy, and 270+ algorithms solved one rep at a time.
 
 </div>
 
@@ -164,8 +164,8 @@ An NLP-powered bot that detects and blocks harmful content as it's posted.
 
 </div>
 
-**Core CS:** Data Structures & Algorithms · Operating Systems · OOP · Computer Networks
-**ML Concepts:** Supervised & Unsupervised Learning · Reinforcement Learning · NLP Fundamentals
+**Core CS:** Data Structures & Algorithms · Operating Systems · OOP · Computer Networks | 
+**ML Concepts:** Supervised & Unsupervised Learning · Reinforcement Learning · NLP Fundamentals | 
 **Salesforce:** Apex · SOQL/SOSL
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00C6FF&height=2&section=header"/>
@@ -188,7 +188,7 @@ An NLP-powered bot that detects and blocks harmful content as it's posted.
 
 | 🥉 Hackathon | 💯 Problem Solving | 🎖️ Trailhead | 🧑‍💻 Leadership |
 |:---:|:---:|:---:|:---:|
-| [3rd Position](https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view?usp=sharing) — 24hr Hackathon | [260+ problems](https://codolio.com/profile/anubhav0407) on LeetCode & GFG | [50 badges, 48K+ pts](https://www.salesforce.com/trailblazer/anubhav0407) | Leading a Tech Initiative @ LPU |
+| [3rd Position](https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view?usp=sharing) — 24hr Hackathon | [270+ problems](https://codolio.com/profile/anubhav0407) on LeetCode & GFG | [50 badges, 48K+ pts](https://www.salesforce.com/trailblazer/anubhav0407) | Leading a Tech Initiative @ LPU |
 | Mar '25 | Since Nov '25 | Present | Mar '25 – Present |
 
 <br/>
@@ -205,7 +205,7 @@ An NLP-powered bot that detects and blocks harmful content as it's posted.
 Bachelor of Technology, Computer Science & Engineering · CGPA: 7.53 · Since Aug '23
 
 **Sanskriti Public School** — Areraj, Bihar |
-Intermediate (10+2) · 71% · Apr '21 – Mar '23
+Intermediate (10+2) · Percentage: 71% · Apr '21 – Mar '23
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00C6FF&height=2&section=header"/>
 
