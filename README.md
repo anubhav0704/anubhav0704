@@ -28,7 +28,7 @@
 <div align="center">
 
 <a href="https://earlyedge.netlify.app"><img src="https://img.shields.io/badge/Live_Product-EarlyEdge-00C6FF?style=for-the-badge"/></a>
-<a href="https://codolio.com/profile/anubhav0407"><img src="https://img.shields.io/badge/DSA-260%2B_Solved-00C6FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://codolio.com/profile/anubhav0407"><img src="https://img.shields.io/badge/DSA-270%2B_Solved-00C6FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <a href="https://drive.google.com/file/d/1wy0hsqT4orUDamdage9hDUk4mT9cIMY5/view"><img src="https://img.shields.io/badge/Hackathon-3rd_Place-00C6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ML_Model-85%25_R2_Score-00C6FF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <a href="https://www.salesforce.com/trailblazer/anubhav0407"><img src="https://img.shields.io/badge/Trailhead-48K%2B_pts-00C6FF?style=for-the-badge&logo=salesforce&logoColor=white"/>
