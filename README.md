@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-### 💡 I build things that solve real problems — a hiring platform that's live in production, ML models that hit 85%+ accuracy, and 270+ algorithms solved one rep at a time.
+### 💡 I build things that solve real problems — a hiring platform that's live in production, ML models that hit 85%+ accuracy, and 280+ algorithms solved one rep at a time.
 
 </div>
 
