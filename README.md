@@ -47,7 +47,7 @@
 class Anubhav:
     def __init__(self):
         self.role     = "B.Tech CSE @ LPU, Batch of '27"
-        self.cgpa     = 7.58
+        self.cgpa     = 7.61
         self.focus    = ["Machine Learning",
                           "Full-Stack Dev",
                           "AI", "Leadership"]
@@ -202,7 +202,7 @@ An NLP-powered bot that detects and blocks harmful content as it's posted.
 ## 🎓 Education
 
 **Lovely Professional University** — Phagwara, Punjab |
-Bachelor of Technology, Computer Science & Engineering · CGPA: 7.58 · Since Aug '23
+Bachelor of Technology, Computer Science & Engineering · CGPA: 7.61 · Since Aug '23
 
 **Sanskriti Public School** — Areraj, Bihar |
 Intermediate (10+2) · Percentage: 71% · Apr '21 – Mar '23
